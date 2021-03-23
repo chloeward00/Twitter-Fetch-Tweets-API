@@ -82,6 +82,6 @@ const start = async () => {
 };
 start();
 
-// joanna npm install fs 
+// npm install fs 
 // then npm install twitter --save
 // to run do: node index.js
